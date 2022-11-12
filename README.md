@@ -8,16 +8,16 @@ Library management System usign Tkinter
 4. Run login.pu using the command "python Login.py" in the terminal to get the changed command
 
 The original code contains 
-AddBook
-DeleteBook
-IssueBook
-ReturnBook
-ViewBook
+AddBook,
+DeleteBook,
+IssueBook,
+ReturnBook,
+ViewBook,
 main.py
 
 All the other files are added by me
-Login
-StudentLogin
-LibLogin
-AdminLogin
+Login,
+StudentLogin,
+LibLogin,
+AdminLogin,
 and customtkiner folders
